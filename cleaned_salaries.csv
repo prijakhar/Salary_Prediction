@@ -1,0 +1,16 @@
+EmployeeID,Name,Age,Department,Salary,JoinDate,Email,Performance
+101,Alice,29.0,HR,55000.0,2022-01-15,alice@example.com,4.5
+102,Bob,,IT,65000.0,2021/03/10,bob@example.com,5
+103,Charlie,35.0,Finance,70000.0,15-07-2020,charlie@example.com,
+104,David,28.0,IT,62000.0,2023-02-01,david@example,3.8
+105,Eva,,Marketing,58000.0,2022-11-31,eva@example.com,4.2
+106,Frank,42.0,finance,72000.0,2020-06-18,frank@example.com,Excellent
+107,Grace,27.0,Sales,,2021-09-25,grace@example.com,4.0
+108,Henry,31.0,HR,56000.0,,henry@example.com,3.9
+109,Ivy,29.0,IT,65000.0,2021-03-10,ivy@example.com,
+109,Ivy,29.0,IT,65000.0,2021-03-10,ivy@example.com,
+110,Jack,-5.0,Sales,50000.0,2022-05-12,jack@example.com,2.5
+111,,33.0,IT,61000.0,2020-10-01,kate@example.com,4.1
+112,Leo,150.0,Marketing,59000.0,2019-08-20,leo@example.com,3.5
+113,Mia,26.0,IT ,68000.0,2022-04-14,mia@example.com,4.7
+114,Noah,30.0,Human Resources,57000.0,2021-12-01,noah@example.com,4.0
