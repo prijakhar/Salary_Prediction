@@ -141,7 +141,27 @@ streamlit run app.py
 
 ## 📷 Application Screenshot
 
-(Add a screenshot of your Streamlit application here after uploading to GitHub.)
+## 📷 Streamlit Home Page
+
+![Streamlit Home Page](streamlit_home_page.png)
+
+---
+
+## 📈 Prediction
+
+![Prediction](prediction.png)
+
+---
+
+## 🔥 Correlation Heatmap
+
+![Heatmap](heatmap.png)
+
+---
+
+## 📊 Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
